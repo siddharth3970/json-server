@@ -1,9 +1,42 @@
-{
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+tasks = [
+    {
+        'id': 1,
+        'url' : u'https://upload.wikimedia.org/wikipedia/commons/1/11/Mahmoud_Ahmadinejad_portrait_2013.jpg',
+        'done': False
+    },
+    {
+        'id': 2,
+         'url' : u'https://upload.wikimedia.org/wikipedia/commons/1/11/Mahmoud_Ahmadinejad_portrait_2013.jpg', 
+        'done': False
+    },
+    {
+        'id': 3,
+         'url' : u'https://upload.wikimedia.org/wikipedia/commons/1/11/Mahmoud_Ahmadinejad_portrait_2013.jpg', 
+        'done': False
+    },
+    {
+        'id': 4,
+         'url' : u'https://upload.wikimedia.org/wikipedia/commons/1/11/Mahmoud_Ahmadinejad_portrait_2013.jpg', 
+        'done': False
+    },
+    {
+        'id': 5,
+         'url' : u'https://upload.wikimedia.org/wikipedia/commons/1/11/Mahmoud_Ahmadinejad_portrait_2013.jpg', 
+        'done': False
+    },
+    {
+        'id': 6,
+         'url' : u'https://upload.wikimedia.org/wikipedia/commons/1/11/Mahmoud_Ahmadinejad_portrait_2013.jpg', 
+        'done': False
+    },
+    {
+        'id': 7,
+         'url' : u'https://upload.wikimedia.org/wikipedia/commons/1/11/Mahmoud_Ahmadinejad_portrait_2013.jpg', 
+        'done': False
+    },
+    {
+        'id': 8,
+         'url' : u'https://upload.wikimedia.org/wikipedia/commons/1/11/Mahmoud_Ahmadinejad_portrait_2013.jpg', 
+        'done': False
+    }
+]
